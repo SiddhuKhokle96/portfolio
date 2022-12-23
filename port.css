@@ -1,0 +1,20 @@
+body {
+    text-align: left;
+    padding: 50px;
+    justify-content: space-around;
+}
+form{
+    padding:20px;
+
+}
+#fname,#email, #sub , #add{
+    border:2px solid black;
+    width:80%;
+}
+#home{
+    text-align: center;
+    font-size: 10px;
+}
+#proj{
+    text-align: left;
+}
